@@ -33,9 +33,9 @@ Here are some ideas to get you started:-->
  
 <div align="center"> 
   <a href="https://www.linkedin.com/in/victor-augusto-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-thebadge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<!--  <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=blak"></a>  -->
-<!--  <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=blak"></a>  
+  <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/output/github-contribution-grid-snake.svg) 
+ [Snake animation](https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/output/github-contribution-grid-snake.svg) 
  
 </div>
