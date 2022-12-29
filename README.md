@@ -1,6 +1,6 @@
 <h1>
-Oi, <img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/hi.gif" width="50px">
-meu nome é Victor Augusto.
+<img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/hi.gif" width="50px">
+Oi, meu nome é Victor Augusto.
 </h1> 
 
 
