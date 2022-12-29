@@ -78,12 +78,10 @@ Here are some ideas to get you started:--> - 🔭 I’m currently working on ...
 
 
 
-
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictorAugustoRodriguesGomes&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorAugustoRodriguesGomes&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorAugustoRodriguesGomes&theme=nord_dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictorAugustoRodriguesGomes&theme=dracula) | ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VictorAugustoRodriguesGomes&theme=dracula&hide_border=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorAugustoRodriguesGomes&theme=dracula) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorAugustoRodriguesGomes&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=VictorAugustoRodriguesGomes&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorAugustoRodriguesGomes&theme=dracula) | ![](https://github-readme-streak-stats.herokuapp.com?user=VictorAugustoRodriguesGomes&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D) |
 | :-: | :-: |
   
   
@@ -94,3 +92,16 @@ Here are some ideas to get you started:--> - 🔭 I’m currently working on ...
   
   
   <h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ayan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
