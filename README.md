@@ -1,8 +1,12 @@
-## Olá. Eu sou o Victor Augusto
+<h1>
+Oi, <img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/hi.gif" width="50px">
+meu nome é Victor Augusto.
+</h1> 
 
 
-**VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:--> - 🔭 I’m currently working on ...
+
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,11 +17,6 @@ Here are some ideas to get you started:--> - 🔭 I’m currently working on ...
 
 </br>
 
-<div align="center">
-  <a href="https://github.com/VictorAugustoRodriguesGomes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorAugustoRodriguesGomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAugustoRodriguesGomes&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
 <div style="display: inline_block" align="center"><br>
    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -28,9 +27,9 @@ Here are some ideas to get you started:--> - 🔭 I’m currently working on ...
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
- 
-<div align="center"> 
+
+  
+  <div align="center"> 
   <a href="https://www.linkedin.com/in/victor-augusto-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-thebadge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=blak"></a>  
   <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
@@ -38,8 +37,6 @@ Here are some ideas to get you started:--> - 🔭 I’m currently working on ...
  
  
 </div>
-  
-  
   
   
   
@@ -87,21 +84,10 @@ Here are some ideas to get you started:--> - 🔭 I’m currently working on ...
   
   
   
-  <p align="center"><a href="https://github.com/Ayan-kumar-pal"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="150%"/></a></p>
-  
-  
-  
-  <h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ayan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+<h3 align="center">
+<img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/Banner.gif" width="150%"/>
+</h3>
+
+</br>
+
+ <h6 align="center"> Copyright © 2020-Atual. Victor Augusto. Todos os direitos reservados. </h6> 
