@@ -1,7 +1,17 @@
 <h1> <img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/hi.gif" width="40px">
 Oi, meu nome é Victor Augusto. </h1> 
 
+<div>
+<a href="https://www.linkedin.com/in/victor-augusto-dev" target="_blank"><img alt="Meu-Linkedin" src="https://img.shields.io/badge/MEU-Linkedin-%230e76a8?style=for-the-badge&logo=appveyor"></a>
+<a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/MEU-Currículo-%23003d70?style=for-the-badge&logo=appveyor"></a>
+<a href="https://victor-augusto-dev.web.app/" target="_blank"><img alt="Meu-Portfólio" src="https://img.shields.io/badge/MEU-Portf%C3%B3lio-%23f29200?style=for-the-badge&logo=appveyor"></a>
+  
+<img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/h1%20-%20animation.gif" width="150%">
+  
+</div>
+
 </br>
+<h2> Informações </h2> 
 
 <p> Eu tenho formação técnica em Informática pelo CTF e estou cursando bacharelado em Ciência da Computação pela UNIP. Iniciei na programação em 2016 e desenvolvi projeto em diferentes linguagens de programação. Atualmente estou focado em utilizar: Java, JavaScript, PHP e Python. </p>   
 
@@ -9,9 +19,10 @@ Oi, meu nome é Victor Augusto. </h1>
 
 <p> Atualmente, desejo iniciar no mercado de trabalho como desenvolvedor. </p> 
 
-</br>
+<img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/h1%20-%20animation.gif" width="150%">
 
 </br>
+<h2> Habilidades </h2> 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictorAugustoRodriguesGomes&theme=dracula) | ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VictorAugustoRodriguesGomes&theme=dracula&hide_border=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorAugustoRodriguesGomes&theme=dracula) |
 | :-: | :-: | :-: |
