@@ -26,7 +26,7 @@ Em meus projetos desenvolvidos incluem, desenvolvimento de programas para o gere
 Atualmente, desejo iniciar no mercado de trabalho como desenvolvedor.
 </p> 
 
-</br></br>
+</br>
 
 
 
