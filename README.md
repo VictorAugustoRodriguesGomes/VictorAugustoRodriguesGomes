@@ -3,7 +3,7 @@ Oi, meu nome é Victor Augusto. </h1>
 
 <div>
 <a href="https://www.linkedin.com/in/victor-augusto-dev" target="_blank"><img alt="Meu-Linkedin" src="https://img.shields.io/badge/MEU-Linkedin-%230e76a8?style=for-the-badge&logo=appveyor"></a>
-<a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/MEU-Currículo-%23003d70?style=for-the-badge&logo=appveyor"></a>
+<a href="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/doc/Victor%20Augusto%20Rodrigues%20Gomes%20-%20curr%C3%ADculo.pdf" target="_blank"><img alt="Meu-Currículo" src="https://img.shields.io/badge/MEU-Currículo-%23003d70?style=for-the-badge&logo=appveyor"></a>
 <a href="https://victor-augusto-dev.web.app/" target="_blank"><img alt="Meu-Portfólio" src="https://img.shields.io/badge/MEU-Portf%C3%B3lio-%23f29200?style=for-the-badge&logo=appveyor"></a>
   
 <img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/h1%20-%20animation.gif" width="150%">
