@@ -11,7 +11,7 @@ Oi, meu nome é Victor Augusto. </h1>
 </div>
 
 </br>
-<h2> Informações </h2> 
+<h2> INFORMAÇÕES </h2> 
 
 <p> Eu tenho formação técnica em Informática pelo CTF e estou cursando bacharelado em Ciência da Computação pela UNIP. Iniciei na programação em 2016 e desenvolvi projeto em diferentes linguagens de programação. Atualmente estou focado em utilizar: Java, JavaScript, PHP e Python. </p>   
 
@@ -21,8 +21,68 @@ Oi, meu nome é Victor Augusto. </h1>
 
 <img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/h1%20-%20animation.gif" width="150%">
 
+
+
+
+
+
+
+
+
+
+
 </br>
-<h2> Habilidades </h2> 
+<h2> ALGUNS PROJETOS </h2> 
+
+<details>
+  <summary>Projeto Onça-Pintada</summary> <br>
+  <p>Projeto Onça-Pintada, desenvolvido utilizando HTML, CSS e JS (JavaScript) com a API Awesome: <a href="https://github.com/VictorAugustoRodriguesGomes/Projeto_Onca_Pintada" target="_blank">https://github.com/VictorAugustoRodriguesGomes/Projeto_Onca_Pintada</a> </p> 
+  <p>Com objetivo de demonstrar as minhas habilidades como desenvolvedor, desenvolvi esse projeto que converte valores entre moedas. Para isso, basta informar o valor que pretende converter e selecionar a moeda de origem e a moeda que pretende ser convertida. As moedas utilizadas são: Dólar, Euros e Reais, no futuro pretendo adicionar mais moedas. O projeto foi desenvolvido utilizando a API Awesome com HTML, CSS e JS (JavaScript).</p>
+  </br>
+</details>
+
+<details>
+  <summary>Projeto Coala</summary> <br>
+  <p>Projeto Coala desenvolvido utilizando HTML, CSS e JS (JavaScript): <a href="https://github.com/VictorAugustoRodriguesGomes/Projeto_Coala" target="_blank">https://github.com/VictorAugustoRodriguesGomes/Projeto_Coala</a> </p> 
+  <p>Com objetivo de demostrar as minhas habilidades como desenvolvedor, desenvolvi esse projeto que informa o horário e a data atual de Brasília, a hora oficial do Brasil. O projeto também conta com um calendário que possui algumas interações. O projeto foi desenvolvido utilizando apenas HTML, CSS e JS (JavaScript).</p>
+  </br>
+</details>
+
+<details>
+  <summary>Projeto Hamster</summary> <br>
+  <p>Projeto Hamster desenvolvido utilizando HTML, CSS e JS (JavaScript) com as bibliotecas Jquery e qrCodeJs: <a href="https://github.com/VictorAugustoRodriguesGomes/Projeto_Hamster" target="_blank">https://github.com/VictorAugustoRodriguesGomes/Projeto_Hamster</a> </p> 
+  <p>Com objetivo de demonstrar as minhas habilidades como desenvolvedor, desenvolvi esse projeto para gerar um acesso rápido, por um link ou QRCode, a um contato do WhatsApp, facilitando assim o compartilhamento do mesmo. Para isso, informe o número do WhatsApp que deseja compartilhar, e uma mensagem que deseja vincular ao contato (a mensagem sendo opcional). O projeto foi desenvolvido utilizando HTML, CSS e JavaScript. Utilizei também as bibliotecas Jquery e qrCodeJs para ajudar no desenvolvimento.</p>
+  </br>
+</details>
+
+<details>
+  <summary>Projeto ARK 01</summary> <br>
+  <p>Projeto ARK 01 desenvolvido utilizando Java: <a href="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_01_Java" target="_blank">https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_01_Java</a> </p> 
+  <p>Ark 1 é um projeto que de maneira aleatória escolhe um número de 0 a 1000 e por palpites o usuário deverá adivinhar o número escolhido, dessa forma quando mais próximo o usuário estiver do número escolhido a aplicação responderá com a cor verde e quando ele estiver se afastando do número escolhido o projeto responder com a cor vermelha, caso no 13° palpite o usuário não acerte o número escolhido a aplicação informará o número através de um System.out.print</p>
+</details>
+
+
+
+
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/h1%20-%20animation.gif" width="150%">
+
+</br>
+<h2> HABILIDADES </h2> 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictorAugustoRodriguesGomes&theme=dracula) | ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VictorAugustoRodriguesGomes&theme=dracula&hide_border=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorAugustoRodriguesGomes&theme=dracula) |
 | :-: | :-: | :-: |
