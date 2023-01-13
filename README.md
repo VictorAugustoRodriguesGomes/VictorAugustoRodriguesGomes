@@ -32,7 +32,7 @@ Oi, meu nome é Victor Augusto. </h1>
 
 
 </br>
-<h2> ALGUNS PROJETOS </h2> 
+<h2> PROJETOS </h2> 
 
 <details>
   <summary>Projeto Onça-Pintada</summary> <br>
@@ -59,6 +59,11 @@ Oi, meu nome é Victor Augusto. </h1>
   <summary>Projeto ARK 01</summary> <br>
   <p>Projeto ARK 01 desenvolvido utilizando Java: <a href="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_01_Java" target="_blank">https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_01_Java</a> </p> 
   <p>Ark 1 é um projeto que de maneira aleatória escolhe um número de 0 a 1000 e por palpites o usuário deverá adivinhar o número escolhido, dessa forma quando mais próximo o usuário estiver do número escolhido a aplicação responderá com a cor verde e quando ele estiver se afastando do número escolhido o projeto responder com a cor vermelha, caso no 13° palpite o usuário não acerte o número escolhido a aplicação informará o número através de um System.out.print</p>
+</details>
+
+<details>
+  <summary>Mais Projeto </summary> <br>
+  <p>Não deixe de conferir meus outros projetos: <a href="https://github.com/VictorAugustoRodriguesGomes?tab=repositories" target="_blank">https://github.com/VictorAugustoRodriguesGomes?tab=repositories</a> </p> 
 </details>
 
 
