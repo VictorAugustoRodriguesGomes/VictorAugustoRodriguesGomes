@@ -2,7 +2,7 @@
 Oi, meu nome é Victor Augusto. </h1> 
 
 <div>
-<a href="https://www.linkedin.com/in/victor-augusto-dev" target="_blank"><img alt="Meu-Linkedin" src="https://img.shields.io/badge/MEU-Linkedin-%230e76a8?style=for-the-badge&logo=appveyor"></a>
+<a href="https://www.linkedin.com/in/victor-augusto-dev" target="_blank"><img alt="Meu-LinkedIn" src="https://img.shields.io/badge/MEU-Linkedin-%230e76a8?style=for-the-badge&logo=appveyor"></a>
 <a href="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/doc/Victor%20Augusto%20Rodrigues%20Gomes%20-%20curr%C3%ADculo.pdf" target="_blank"><img alt="Meu-Currículo" src="https://img.shields.io/badge/MEU-Currículo-%23003d70?style=for-the-badge&logo=appveyor"></a>
 <a href="https://victor-augusto-dev.web.app/" target="_blank"><img alt="Meu-Portfólio" src="https://img.shields.io/badge/MEU-Portf%C3%B3lio-%23f29200?style=for-the-badge&logo=appveyor"></a>
   
@@ -13,9 +13,9 @@ Oi, meu nome é Victor Augusto. </h1>
 </br>
 <h2> INFORMAÇÕES </h2> 
 
-<p> Eu tenho formação técnica em Informática pelo CTF e estou cursando bacharelado em Ciência da Computação pela UNIP. Iniciei na programação em 2016 e desenvolvi projeto em diferentes linguagens de programação. Atualmente estou focado em utilizar: Java, JavaScript, PHP e Python. </p>   
+<p> Eu tenho formação técnica em Informática pelo CTF e estou cursando bacharelado em Ciência da Computação pela UNIP. Iniciei na programação em 2016 e desenvolvi projeto em diferentes linguagens de programação. Atualmente estou focado em utilizar: Java, JavaScript e SQL. </p>   
 
-<p> Em meus projetos desenvolvidos incluem, desenvolvimento de programas para o gerenciamento, app para dispositivos Android, aplicações em front-end e back-end, games voltados a educação, aplicações em RA (realidade Aumentada), conhecimento em design gráfico 2D e 3D e outros projetos desenvolvidos. </p> 
+<p> Em meus projetos desenvolvidos incluem, desenvolvimento de programas para o gerenciamento, aplicativo para dispositivos Android, aplicações em front-end e back-end, games voltados a educação, aplicações em RA (realidade Aumentada), conhecimento em design gráfico 2D e 3D e outros projetos desenvolvidos. </p> 
 
 <p> Atualmente, desejo iniciar no mercado de trabalho como desenvolvedor. </p> 
 
@@ -58,7 +58,7 @@ Oi, meu nome é Victor Augusto. </h1>
 <details>
   <summary>Projeto ARK 01</summary> <br>
   <p>Projeto ARK 01 desenvolvido utilizando Java: <a href="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_01_Java" target="_blank">https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_01_Java</a> </p> 
-  <p>Ark 1 é um projeto que de maneira aleatória escolhe um número de 0 a 1000 e por palpites o usuário deverá adivinhar o número escolhido, dessa forma quando mais próximo o usuário estiver do número escolhido a aplicação responderá com a cor verde e quando ele estiver se afastando do número escolhido o projeto responder com a cor vermelha, caso no 13° palpite o usuário não acerte o número escolhido a aplicação informará o número através de um System.out.print</p>
+  <p>Ark 1 é um projeto que de maneira aleatória escolhe um número de 0 a 1000 e por palpites o usuário deverá adivinhar o número escolhido, dessa forma quando mais próximo o usuário estiver do número escolhido a aplicação responderá com o verde e quando ele estiver se afastando do número escolhido o projeto responder com o vermelho, caso no 13.º palpite o usuário não acerte o número escolhido a aplicação informará o número por um System.out.print.</p>
 </details>
 
 <details>
