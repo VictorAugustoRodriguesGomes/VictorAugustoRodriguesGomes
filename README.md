@@ -1,5 +1,5 @@
 <h1> <img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/hi.gif" width="40px">
-Oi, meu nome é Victor Augusto. </h1> 
+Oi, meu nome é Victor Augusto. </h1>   
 
 <div>
 <a href="https://www.linkedin.com/in/victor-augusto-dev" target="_blank"><img alt="Meu-LinkedIn" src="https://img.shields.io/badge/MEU-Linkedin-%230e76a8?style=for-the-badge&logo=appveyor"></a>
