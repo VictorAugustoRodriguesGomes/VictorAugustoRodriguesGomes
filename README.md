@@ -13,11 +13,11 @@ Oi, meu nome é Victor Augusto. </h1>
 </br>
 <h2> INFORMAÇÕES </h2> 
 
-<p> Eu tenho formação técnica em Informática pelo CTF e estou cursando bacharelado em Ciência da Computação pela UNIP. Iniciei na programação em 2016 e desenvolvi projeto em diferentes linguagens de programação. Atualmente estou focado em utilizar: Java, JavaScript e SQL. </p>   
+<p> Eu sou desenvolvedor Júnior com sólida experiência em desenvolvimento de software, websites e aplicativos móveis. Com formação academia em Ciências da Computação pela Universidade Paulista (UNIP) e Técnico em Informática pelo Colégio Técnico de Floriano (CTF). Iniciei na programação em 2016 e desenvolvi projeto em diferentes linguagens de programação. Atualmente estou focado em utilizar: Java, JavaScript e TypeScript. </p>
 
-<p> Em meus projetos desenvolvidos incluem, desenvolvimento de programas para o gerenciamento, aplicativo para dispositivos Android, aplicações em front-end e back-end, games voltados a educação, aplicações em RA (realidade Aumentada), conhecimento em design gráfico 2D e 3D e outros projetos desenvolvidos. </p> 
+<p> Em meus projetos desenvolvidos incluem, desenvolvimento front-end e back-end (full-stack) com ReactJS e Node.js, desenvolvimento de softwares e aplicativos móveis, games voltados a educação, aplicações em realidade aumentada e outros projetos desenvolvidos. Possuo experiente com bancos de dados (MySQL, PostgreSQL, MongoDB), ferramentas para controle de versão (Git e GitHub), forte conhecimento em design gráfico 2D/3D e sou adepto das metodologias ágeis como Scrum, Kanban e XP. </p>
 
-<p> Atualmente, desejo iniciar no mercado de trabalho como desenvolvedor. </p> 
+<p> Atualmente, busco uma oportunidade de resolver grades problemas e transforma ideias em soluções digitais. </p> 
 
 <img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/h1%20-%20animation.gif" width="150%">
 
