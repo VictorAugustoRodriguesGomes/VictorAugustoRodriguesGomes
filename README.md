@@ -13,7 +13,7 @@ Oi, meu nome é Victor Augusto. </h1>
 </br>
 <h2> INFORMAÇÕES </h2> 
 
-<p> Eu sou desenvolvedor Júnior com sólida experiência em desenvolvimento de software, websites e aplicativos móveis. Com formação academia em Ciências da Computação pela Universidade Paulista (UNIP) e Técnico em Informática pelo Colégio Técnico de Floriano (CTF). Iniciei na programação em 2016 e desenvolvi projeto em diferentes linguagens de programação. Atualmente estou focado em utilizar: Java, JavaScript e TypeScript. </p>
+<p> Eu sou desenvolvedor Júnior com experiência em desenvolvimento de software, websites e aplicativos móveis. Tenho formação acadêmica em Ciências da Computação pela Universidade Paulista (UNIP) e sou Técnico em Informática pelo Colégio Técnico de Floriano (CTF). Iniciei na programação em 2016 e desenvolvi projeto em diferentes linguagens de programação. Atualmente, meu foco está em usar: Java, JavaScript e TypeScript. </p>
 
 <p> Em meus projetos desenvolvidos incluem, desenvolvimento front-end e back-end (full-stack) com ReactJS e Node.js, desenvolvimento de softwares e aplicativos móveis, games voltados a educação, aplicações em realidade aumentada e outros projetos desenvolvidos. Possuo experiente com bancos de dados (MySQL, PostgreSQL, MongoDB), ferramentas para controle de versão (Git e GitHub), forte conhecimento em design gráfico 2D/3D e sou adepto das metodologias ágeis como Scrum, Kanban e XP. </p>
 
@@ -21,68 +21,50 @@ Oi, meu nome é Victor Augusto. </h1>
 
 <img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/h1%20-%20animation.gif" width="150%">
 
-
-
-
-
-
-
-
-
-
-
 </br>
 <h2> PROJETOS </h2> 
 
 <details>
+  <summary>Portfolio</summary> <br>
+  <p>O meu nome é Victor Augusto e este é o meu portfólio: <a href="https://github.com/VictorAugustoRodriguesGomes/Portfolio" target="_blank">https://github.com/VictorAugustoRodriguesGomes/Portfolio</a> </p> 
+  <p>O objetivo deste projeto é apresentar meus trabalhos e habilidades como desenvolvedor.</p>
+  </br>
+</details>
+
+<details>
+  <summary>Projeto Ornitorrinco</summary> <br>
+  <p>Projeto Ornitorrinco foi desenvolvido com Node.js, TypeScript e MySQL: <a href="https://github.com/VictorAugustoRodriguesGomes/Projeto_Ornitorrinco" target="_blank">https://github.com/VictorAugustoRodriguesGomes/Projeto_Ornitorrinco</a> </p> 
+  <p>Neste projeto, criei uma API REST que permite aos usuários realizar diversas ações, como: criar contas, recuperar senhas, fazer login, visualizar e atualizar suas informações pessoais e de conta, além de alterar a foto de perfil. A API também inclui um sistema de autenticação em dois fatores (2FA) via e-mail.</p>
+  </br>
+</details>
+
+<details>
+  <summary>Projeto Fênix</summary> <br>
+  <p>Projeto Fênix foi desenvolvido utilizando HTML, CSS e JS (JavaScript): <a href="https://github.com/VictorAugustoRodriguesGomes/Projeto_Fenix" target="_blank">https://github.com/VictorAugustoRodriguesGomes/Projeto_Fenix</a> </p> 
+  <p>Neste projeto, desenvolvi 3 sites focados nas maiores plataformas de videogames da atualidade: PlayStation, Xbox, Nintendo. Cada site foi criado para destacar os produtos, jogos e serviços exclusivos de cada empresa.</p>
+  </br>
+</details>
+
+<details>
+  <summary>Projeto SyDis</summary> <br>
+  <p>Projeto SyDis o app foi desenvolvido no Android Studio com Java, e o Back-End utiliza os serviços do Google Firebase: <a href="https://github.com/VictorAugustoRodriguesGomes/Projeto_Hamster" target="_blank">https://github.com/VictorAugustoRodriguesGomes/Projeto_Hamster</a> </p> 
+  <p>Nesse projeto, desenvolvi um aplicativo para dispositivos móveis Android, capaz de reportar problemas ambientais. </p>
+  <p>Com o app, os usuários podem criar contas, fazer login, recuperar senhas e visualizar informações pessoais. </p>
+  <p>Após o login dos usuários, é possível reportar incidentes ambientais, como alagamentos, incêndios, desmoronamentos, entre outros. Além disso, o aplicativo permite visualizar e comentar as ocorrências adicionadas por outros usuários. </p>
+  </br>
+</details>
+
+<details>
   <summary>Projeto Onça-Pintada</summary> <br>
-  <p>Projeto Onça-Pintada, desenvolvido utilizando HTML, CSS e JS (JavaScript) com a API Awesome: <a href="https://github.com/VictorAugustoRodriguesGomes/Projeto_Onca_Pintada" target="_blank">https://github.com/VictorAugustoRodriguesGomes/Projeto_Onca_Pintada</a> </p> 
+  <p>Projeto Onça-Pintada foi desenvolvido utilizando HTML, CSS e JS (JavaScript) com a API Awesome: <a href="https://github.com/VictorAugustoRodriguesGomes/Projeto_Onca_Pintada" target="_blank">https://github.com/VictorAugustoRodriguesGomes/Projeto_Onca_Pintada</a> </p> 
   <p>Com objetivo de demonstrar as minhas habilidades como desenvolvedor, desenvolvi esse projeto que converte valores entre moedas. Para isso, basta informar o valor que pretende converter e selecionar a moeda de origem e a moeda que pretende ser convertida. As moedas utilizadas são: Dólar, Euros e Reais, no futuro pretendo adicionar mais moedas. O projeto foi desenvolvido utilizando a API Awesome com HTML, CSS e JS (JavaScript).</p>
   </br>
-</details>
-
-<details>
-  <summary>Projeto Coala</summary> <br>
-  <p>Projeto Coala desenvolvido utilizando HTML, CSS e JS (JavaScript): <a href="https://github.com/VictorAugustoRodriguesGomes/Projeto_Coala" target="_blank">https://github.com/VictorAugustoRodriguesGomes/Projeto_Coala</a> </p> 
-  <p>Com objetivo de demostrar as minhas habilidades como desenvolvedor, desenvolvi esse projeto que informa o horário e a data atual de Brasília, a hora oficial do Brasil. O projeto também conta com um calendário que possui algumas interações. O projeto foi desenvolvido utilizando apenas HTML, CSS e JS (JavaScript).</p>
-  </br>
-</details>
-
-<details>
-  <summary>Projeto Hamster</summary> <br>
-  <p>Projeto Hamster desenvolvido utilizando HTML, CSS e JS (JavaScript) com as bibliotecas Jquery e qrCodeJs: <a href="https://github.com/VictorAugustoRodriguesGomes/Projeto_Hamster" target="_blank">https://github.com/VictorAugustoRodriguesGomes/Projeto_Hamster</a> </p> 
-  <p>Com objetivo de demonstrar as minhas habilidades como desenvolvedor, desenvolvi esse projeto para gerar um acesso rápido, por um link ou QRCode, a um contato do WhatsApp, facilitando assim o compartilhamento do mesmo. Para isso, informe o número do WhatsApp que deseja compartilhar, e uma mensagem que deseja vincular ao contato (a mensagem sendo opcional). O projeto foi desenvolvido utilizando HTML, CSS e JavaScript. Utilizei também as bibliotecas Jquery e qrCodeJs para ajudar no desenvolvimento.</p>
-  </br>
-</details>
-
-<details>
-  <summary>Projeto ARK 01</summary> <br>
-  <p>Projeto ARK 01 desenvolvido utilizando Java: <a href="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_01_Java" target="_blank">https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_01_Java</a> </p> 
-  <p>Ark 1 é um projeto que de maneira aleatória escolhe um número de 0 a 1000 e por palpites o usuário deverá adivinhar o número escolhido, dessa forma quando mais próximo o usuário estiver do número escolhido a aplicação responderá com o verde e quando ele estiver se afastando do número escolhido o projeto responder com o vermelho, caso no 13.º palpite o usuário não acerte o número escolhido a aplicação informará o número por um System.out.print.</p>
 </details>
 
 <details>
   <summary>Mais Projeto </summary> <br>
   <p>Não deixe de conferir meus outros projetos: <a href="https://github.com/VictorAugustoRodriguesGomes?tab=repositories" target="_blank">https://github.com/VictorAugustoRodriguesGomes?tab=repositories</a> </p> 
 </details>
-
-
-
-
- 
-  
-
-
-
-
-
-
-
-
-
-
-
-
 
 <img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/h1%20-%20animation.gif" width="150%">
 
@@ -96,16 +78,7 @@ Oi, meu nome é Victor Augusto. </h1>
 | :-: | :-: |
   
 <h3 align="center">
-<!-- <img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/Banner.gif" width="150%"/> -->
-
-<img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/banner2.png" width="100%"/>
+ <img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/banner.png" width="100%"/>
 </h3>
 
-</br>
-
- <h6 align="center"> Copyright © 2020-Atual. Victor Augusto. Todos os direitos reservados. </h6> 
-
-
-
-
-
+<h6 align="center"> Copyright © 2020-Atual. Victor Augusto. Todos os direitos reservados. </h6> 
