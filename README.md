@@ -98,8 +98,7 @@ Oi, meu nome é Victor Augusto. </h1>
 <h3 align="center">
 <!-- <img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/Banner.gif" width="150%"/> -->
 
-<img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/banner.png" width="100%"/>
-<img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/banner2.png" width="150%"/>
+<img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/banner2.png" width="100%"/>
 </h3>
 
 </br>
