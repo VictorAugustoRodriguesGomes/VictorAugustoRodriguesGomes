@@ -1,5 +1,4 @@
-<h1> <img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/hi.gif" width="40px">
-Oi, meu nome é Victor Augusto. </h1>   
+<h1> <img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/hi.gif" width="40px"> Oi, meu nome é Victor Augusto. </h1>   
 
 <div>
 <a href="https://www.linkedin.com/in/victor-augusto-dev" target="_blank"><img alt="Meu-LinkedIn" src="https://img.shields.io/badge/MEU-Linkedin-%230e76a8?style=for-the-badge&logo=appveyor"></a>
@@ -7,7 +6,6 @@ Oi, meu nome é Victor Augusto. </h1>
 <a href="https://victor-augusto-dev.web.app/" target="_blank"><img alt="Meu-Portfólio" src="https://img.shields.io/badge/MEU-Portf%C3%B3lio-%23f29200?style=for-the-badge&logo=appveyor"></a>
   
 <img src="https://github.com/VictorAugustoRodriguesGomes/VictorAugustoRodriguesGomes/blob/main/src/img/h1%20-%20animation.gif" width="150%">
-  
 </div>
 
 </br>
@@ -51,13 +49,6 @@ Oi, meu nome é Victor Augusto. </h1>
   <p>Nesse projeto, desenvolvi um aplicativo para dispositivos móveis Android, capaz de reportar problemas ambientais. </p>
   <p>Com o app, os usuários podem criar contas, fazer login, recuperar senhas e visualizar informações pessoais. </p>
   <p>Após o login dos usuários, é possível reportar incidentes ambientais, como alagamentos, incêndios, desmoronamentos, entre outros. Além disso, o aplicativo permite visualizar e comentar as ocorrências adicionadas por outros usuários. </p>
-  </br>
-</details>
-
-<details>
-  <summary>Projeto Onça-Pintada</summary> <br>
-  <p>Projeto Onça-Pintada foi desenvolvido utilizando HTML, CSS e JS (JavaScript) com a API Awesome: <a href="https://github.com/VictorAugustoRodriguesGomes/Projeto_Onca_Pintada" target="_blank">https://github.com/VictorAugustoRodriguesGomes/Projeto_Onca_Pintada</a> </p> 
-  <p>Com objetivo de demonstrar as minhas habilidades como desenvolvedor, desenvolvi esse projeto que converte valores entre moedas. Para isso, basta informar o valor que pretende converter e selecionar a moeda de origem e a moeda que pretende ser convertida. As moedas utilizadas são: Dólar, Euros e Reais, no futuro pretendo adicionar mais moedas. O projeto foi desenvolvido utilizando a API Awesome com HTML, CSS e JS (JavaScript).</p>
   </br>
 </details>
 
