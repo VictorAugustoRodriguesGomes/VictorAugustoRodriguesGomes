@@ -31,8 +31,8 @@
 
 <details>
   <summary>Projeto Ornitorrinco</summary> <br>
-  <p>Projeto Ornitorrinco foi desenvolvido com Node.js, TypeScript e MySQL: <a href="https://github.com/VictorAugustoRodriguesGomes/Projeto_Ornitorrinco" target="_blank">https://github.com/VictorAugustoRodriguesGomes/Projeto_Ornitorrinco</a> </p> 
-  <p>Neste projeto, criei uma API REST que permite aos usuários realizar diversas ações, como: criar contas, recuperar senhas, fazer login, visualizar e atualizar suas informações pessoais e de conta, além de alterar a foto de perfil. A API também inclui um sistema de autenticação em dois fatores (2FA) via e-mail.</p>
+  <p>Projeto Ornitorrinco foi desenvolvido com java, Node.js, JavaScript, TypeScript, MySQL e outras tecnologias: <a href="https://github.com/VictorAugustoRodriguesGomes/Projeto_Ornitorrinco" target="_blank">https://github.com/VictorAugustoRodriguesGomes/Projeto_Ornitorrinco</a> </p> 
+  <p>Neste projeto, desenvolvi uma arquitetura full stack que inclui um backend e dois frontends, todos integrados a um único banco de dados. A comunicação entre os componentes é realizada por meio de uma API RESTful, garantindo a eficiência na troca de dados.</p>
   </br>
 </details>
 
